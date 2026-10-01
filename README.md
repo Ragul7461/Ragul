@@ -1,0 +1,2 @@
+# Ragul
+EduGenie AI 
